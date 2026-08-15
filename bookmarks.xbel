@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :176: for Floccus bookmark sync browser extension -->
+<!--- highestId :178: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -204,6 +204,12 @@
     </bookmark>
     <bookmark href="https://wxpusher.zjiecode.com/admin/main/topics/list" id="164">
       <title>WxPusher微信消息推送服务</title>
+    </bookmark>
+    <bookmark href="https://xunyunxiaoxiao.lanzn.com/b00odyp0ad" id="177">
+      <title>咔咔框架</title>
+    </bookmark>
+    <bookmark href="https://xunyunxiaoxiao.lanzoui.com/b00odpbllc" id="178">
+      <title>MK</title>
     </bookmark>
   </folder>
   <folder id="5">
