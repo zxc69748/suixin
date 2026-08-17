@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :178: for Floccus bookmark sync browser extension -->
+<!--- highestId :179: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -413,6 +413,9 @@
       </bookmark>
       <bookmark href="https://wormhole.app/" id="124">
         <title>Wormhole - 简单、私密的文件共享</title>
+      </bookmark>
+      <bookmark href="https://www.guangyapan.com/#/home/all" id="179">
+        <title>光鸭云盘</title>
       </bookmark>
     </folder>
     <bookmark href="http://www.ys168.com/" id="43">
