@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :187: for Floccus bookmark sync browser extension -->
+<!--- highestId :188: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -96,6 +96,9 @@
     </bookmark>
     <bookmark href="https://kapibala.asia/pricing" id="187">
       <title>卡皮巴拉API</title>
+    </bookmark>
+    <bookmark href="https://api.gemai.cc/dashboard/overview" id="188">
+      <title>哈基米API站</title>
     </bookmark>
   </folder>
   <folder id="4">
