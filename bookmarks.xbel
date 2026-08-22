@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :189: for Floccus bookmark sync browser extension -->
+<!--- highestId :190: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -552,6 +552,9 @@
     </bookmark>
     <bookmark href="http://125.65.42.12:25250/" id="147">
       <title>宝塔Linux面板</title>
+    </bookmark>
+    <bookmark href="https://baipiao.org/bbs/d/259-gong-yi-zhan-qian-dao-fu-fei-zhan-you-zhu-ce-zeng-jin-e-fu-fei-zhan-fen-xiang-da-he-ji" id="190">
+      <title>公益站&amp;签到付费站&amp;有注册赠金额付费站分享大合集 - 白嫖社区</title>
     </bookmark>
   </folder>
   <folder id="10">
