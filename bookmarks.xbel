@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :191: for Floccus bookmark sync browser extension -->
+<!--- highestId :192: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -105,6 +105,9 @@
     </bookmark>
     <bookmark href="https://modelgate.app/console" id="191">
       <title>Model Gate-API</title>
+    </bookmark>
+    <bookmark href="https://gwlink.cc/sign-in" id="192">
+      <title>GreatWall Link-API</title>
     </bookmark>
   </folder>
   <folder id="4">
