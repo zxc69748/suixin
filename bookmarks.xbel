@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :179: for Floccus bookmark sync browser extension -->
+<!--- highestId :186: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -72,6 +72,27 @@
     </bookmark>
     <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
       <title>新疆幻城网安科技公益大模型安全网关</title>
+    </bookmark>
+    <bookmark href="https://chatanywhere.tech/" id="180">
+      <title>ChatAnywhere</title>
+    </bookmark>
+    <bookmark href="https://api456.me/pricing" id="181">
+      <title>New API-可萌</title>
+    </bookmark>
+    <bookmark href="https://helpcoder.cc/console/log" id="182">
+      <title>帮帮程序员-API中转</title>
+    </bookmark>
+    <bookmark href="https://beizhi.sylu.cc/dashboard/overview" id="183">
+      <title>Liminality-橘子api</title>
+    </bookmark>
+    <bookmark href="https://api.rua.chat/dashboard/overview" id="184">
+      <title>rua.chat-API</title>
+    </bookmark>
+    <bookmark href="https://aihub.071129.xyz/dashboard/overview" id="185">
+      <title>MapleLeaf API</title>
+    </bookmark>
+    <bookmark href="https://api.wapq.cn/console" id="186">
+      <title>LivenHub-API</title>
     </bookmark>
   </folder>
   <folder id="4">
