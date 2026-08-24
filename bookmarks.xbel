@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :194: for Floccus bookmark sync browser extension -->
+<!--- highestId :195: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -114,6 +114,9 @@
     </bookmark>
     <bookmark href="https://kuaipao.ai/console" id="194">
       <title>快跑API</title>
+    </bookmark>
+    <bookmark href="https://bmapi.020212.xyz/dashboard" id="195">
+      <title>仪表盘 - 斑马API - AI API 中转站</title>
     </bookmark>
   </folder>
   <folder id="4">
