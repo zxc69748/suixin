@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :210: for Floccus bookmark sync browser extension -->
+<!--- highestId :214: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -94,13 +94,13 @@
     <bookmark href="https://aihub.071129.xyz/dashboard/overview" id="185">
       <title>MapleLeaf API</title>
     </bookmark>
-    <bookmark href="https://api.wapq.cn/console" id="186">
+    <bookmark href="https://api.wapq.cn/console/personal" id="211">
       <title>LivenHub-API</title>
     </bookmark>
-    <bookmark href="https://kapibala.asia/pricing" id="187">
+    <bookmark href="https://kapibala.asia/profile" id="212">
       <title>卡皮巴拉API</title>
     </bookmark>
-    <bookmark href="https://xingya.site/dashboard/overview" id="204">
+    <bookmark href="https://xingya.site/checkin" id="213">
       <title>星芽-API</title>
     </bookmark>
     <bookmark href="https://bbs.kscsnkli.site/" id="207">
@@ -112,7 +112,7 @@
     <bookmark href="https://ai.kscsnkli.site/dashboard/overview" id="203">
       <title>Z E-API</title>
     </bookmark>
-    <bookmark href="https://ai.xmiaom.com/dashboard/overview" id="202">
+    <bookmark href="https://ai.xmiaom.com/profile" id="214">
       <title>咕嘎咕嘎-API</title>
     </bookmark>
     <bookmark href="https://api.fuka.win/dashboard/overview" id="201">
