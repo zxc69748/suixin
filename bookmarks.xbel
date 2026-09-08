@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :218: for Floccus bookmark sync browser extension -->
+<!--- highestId :219: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -118,7 +118,7 @@
     <bookmark href="https://ai.kscsnkli.site/profile" id="218">
       <title>芙卡卡の小食堂-API</title>
     </bookmark>
-    <bookmark href="https://api.aiaiai001.com/sign-in" id="200">
+    <bookmark href="https://api.aiaiai001.com/profile" id="219">
       <title>AIAIAI 工具箱</title>
     </bookmark>
     <bookmark href="https://free.supxh.xin/dashboard" id="198">
