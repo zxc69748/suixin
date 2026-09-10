@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :225: for Floccus bookmark sync browser extension -->
+<!--- highestId :226: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -618,6 +618,9 @@
     <title>帕鲁</title>
     <bookmark href="https://palworld.gg/zh-Hans/breeding-calculator" id="68">
       <title>Palworld 繁殖计算器和所有组合</title>
+    </bookmark>
+    <bookmark href="https://www.lanzouu.com/b0fc42q2h?pwd=d7lb" id="226">
+      <title>crack</title>
     </bookmark>
   </folder>
   <folder id="11">
