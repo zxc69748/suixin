@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :229: for Floccus bookmark sync browser extension -->
+<!--- highestId :230: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -159,6 +159,9 @@
     </bookmark>
     <bookmark href="https://tokenforge.ai.studio/dashboard/profile" id="229">
       <title>TokenForge——具有更强功能的 API 基础设施 --- TokenForge — API infrastructure with more signal</title>
+    </bookmark>
+    <bookmark href="https://fast.qianxing.pro/profile" id="230">
+      <title>乾行-API</title>
     </bookmark>
   </folder>
   <folder id="4">
