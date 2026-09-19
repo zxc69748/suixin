@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :234: for Floccus bookmark sync browser extension -->
+<!--- highestId :235: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -169,6 +169,9 @@
     <bookmark href="https://ai.wxctf.com/profile" id="232">
       <title>Wxctf Ai</title>
     </bookmark>
+    <folder id="235">
+      <title>高质量API</title>
+    </folder>
   </folder>
   <folder id="4">
     <title>工具</title>
