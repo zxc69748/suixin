@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :237: for Floccus bookmark sync browser extension -->
+<!--- highestId :238: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -306,6 +306,9 @@
     </bookmark>
     <bookmark href="https://gh-proxy.com/" id="234">
       <title>GitHub加速下载代理 - 快速访问 GitHub 文件</title>
+    </bookmark>
+    <bookmark href="https://winmoes.com/tools" id="238">
+      <title>工具 ★ 枫の主题社</title>
     </bookmark>
   </folder>
   <folder id="5">
