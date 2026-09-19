@@ -61,6 +61,24 @@
     <bookmark href="https://freessl.cn/?%C2%A0" id="18">
       <title>1新的消息</title>
     </bookmark>
+    <folder id="235">
+      <title>高质量API</title>
+      <bookmark href="https://new.xinjianya.top/console/personal" id="231">
+        <title>星见雅 API</title>
+      </bookmark>
+      <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
+        <title>新疆幻城网安科技公益大模型安全网关</title>
+      </bookmark>
+      <bookmark href="https://api.ytea.top/usage-logs/common" id="21">
+        <title>Tea Top</title>
+      </bookmark>
+      <bookmark href="https://ai.baipiao.co/portal#/dashboard" id="215">
+        <title>bit-api · 控制台</title>
+      </bookmark>
+      <bookmark href="https://api.rua.chat/dashboard/overview" id="184">
+        <title>rua.chat-API</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://rivers.chaitin.cn/console/app/ip-17788/" id="19">
       <title>IP 威胁情报-计划升级-长亭百川云平台</title>
     </bookmark>
@@ -69,12 +87,6 @@
     </bookmark>
     <bookmark href="https://baipiao.org/bbs" id="208">
       <title>全部主题 - 白嫖社区</title>
-    </bookmark>
-    <bookmark href="https://api.ytea.top/usage-logs/common" id="21">
-      <title>Tea Top</title>
-    </bookmark>
-    <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
-      <title>新疆幻城网安科技公益大模型安全网关</title>
     </bookmark>
     <bookmark href="https://bbs.kscsnkli.site/" id="207">
       <title>异常芙芙</title>
@@ -93,12 +105,6 @@
     </bookmark>
     <bookmark href="https://beizhi.sylu.cc/dashboard/overview" id="183">
       <title>Liminality-橘子api</title>
-    </bookmark>
-    <bookmark href="https://ai.baipiao.co/portal#/dashboard" id="215">
-      <title>bit-api · 控制台</title>
-    </bookmark>
-    <bookmark href="https://api.rua.chat/dashboard/overview" id="184">
-      <title>rua.chat-API</title>
     </bookmark>
     <bookmark href="https://aihub.071129.xyz/profile" id="216">
       <title>MapleLeaf API</title>
@@ -163,15 +169,9 @@
     <bookmark href="https://fast.qianxing.pro/profile" id="230">
       <title>乾行-API</title>
     </bookmark>
-    <bookmark href="https://new.xinjianya.top/console/personal" id="231">
-      <title>星见雅 API</title>
-    </bookmark>
     <bookmark href="https://ai.wxctf.com/profile" id="232">
       <title>Wxctf Ai</title>
     </bookmark>
-    <folder id="235">
-      <title>高质量API</title>
-    </folder>
   </folder>
   <folder id="4">
     <title>工具</title>
