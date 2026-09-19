@@ -43,6 +43,36 @@
         <title>乐青映射 - LoCyanFrp | 仪表盘</title>
       </bookmark>
     </folder>
+    <folder id="235">
+      <title>高质量API</title>
+      <bookmark href="https://chatanywhere.tech/" id="180">
+        <title>ChatAnywhere</title>
+      </bookmark>
+      <bookmark href="https://free.supxh.xin/dashboard" id="198">
+        <title>肖恩AI - 免费大模型API</title>
+      </bookmark>
+      <bookmark href="https://gemai.huchan.cn/profile" id="206">
+        <title>哈基米API站</title>
+      </bookmark>
+      <bookmark href="https://lzhiyu.ccwu.cc/dashboard" id="199">
+        <title>用户控制台 · 辉哥中转公益站</title>
+      </bookmark>
+      <bookmark href="https://new.xinjianya.top/console/personal" id="231">
+        <title>星见雅 API</title>
+      </bookmark>
+      <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
+        <title>新疆幻城网安科技公益大模型安全网关</title>
+      </bookmark>
+      <bookmark href="https://api.ytea.top/usage-logs/common" id="21">
+        <title>Tea Top</title>
+      </bookmark>
+      <bookmark href="https://ai.baipiao.co/portal#/dashboard" id="215">
+        <title>bit-api · 控制台</title>
+      </bookmark>
+      <bookmark href="https://api.rua.chat/dashboard/overview" id="184">
+        <title>rua.chat-API</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://38.207.176.131:15246/admin802300" id="13">
       <title>1Panel-38.207.176.131</title>
     </bookmark>
@@ -61,24 +91,6 @@
     <bookmark href="https://freessl.cn/?%C2%A0" id="18">
       <title>1新的消息</title>
     </bookmark>
-    <folder id="235">
-      <title>高质量API</title>
-      <bookmark href="https://new.xinjianya.top/console/personal" id="231">
-        <title>星见雅 API</title>
-      </bookmark>
-      <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
-        <title>新疆幻城网安科技公益大模型安全网关</title>
-      </bookmark>
-      <bookmark href="https://api.ytea.top/usage-logs/common" id="21">
-        <title>Tea Top</title>
-      </bookmark>
-      <bookmark href="https://ai.baipiao.co/portal#/dashboard" id="215">
-        <title>bit-api · 控制台</title>
-      </bookmark>
-      <bookmark href="https://api.rua.chat/dashboard/overview" id="184">
-        <title>rua.chat-API</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://rivers.chaitin.cn/console/app/ip-17788/" id="19">
       <title>IP 威胁情报-计划升级-长亭百川云平台</title>
     </bookmark>
@@ -94,9 +106,6 @@
     <bookmark href="https://ai.kscsnkli.site/dashboard/overview" id="203">
       <title>Z E-API</title>
     </bookmark>
-    <bookmark href="https://chatanywhere.tech/" id="180">
-      <title>ChatAnywhere</title>
-    </bookmark>
     <bookmark href="https://api456.me/console/personal" id="210">
       <title>New API-可萌</title>
     </bookmark>
@@ -111,15 +120,6 @@
     </bookmark>
     <bookmark href="https://api.wapq.cn/console/personal" id="211">
       <title>LivenHub-API</title>
-    </bookmark>
-    <bookmark href="https://gemai.huchan.cn/profile" id="206">
-      <title>哈基米API站</title>
-    </bookmark>
-    <bookmark href="https://free.supxh.xin/dashboard" id="198">
-      <title>肖恩AI - 免费大模型API</title>
-    </bookmark>
-    <bookmark href="https://lzhiyu.ccwu.cc/dashboard" id="199">
-      <title>用户控制台 · 辉哥中转公益站</title>
     </bookmark>
     <bookmark href="https://kapibala.asia/profile" id="212">
       <title>卡皮巴拉API</title>
