@@ -45,6 +45,9 @@
     </folder>
     <folder id="235">
       <title>高质量API</title>
+      <bookmark href="https://api.kr777.top/console/personal" id="225">
+        <title>CaMeL AI</title>
+      </bookmark>
       <bookmark href="https://tokenforge.ai.studio/dashboard/profile" id="229">
         <title>TokenForge——具有更强功能的 API 基础设施 --- TokenForge — API infrastructure with more signal</title>
       </bookmark>
@@ -156,9 +159,6 @@
     </bookmark>
     <bookmark href="https://bmapi.020212.xyz/dashboard" id="236">
       <title>仪表盘 - 斑马API - AI API 中转站</title>
-    </bookmark>
-    <bookmark href="https://api.kr777.top/console/personal" id="225">
-      <title>CaMeL AI</title>
     </bookmark>
     <bookmark href="https://code28.ccwu.cc/profile" id="227">
       <title>可乐AI</title>
