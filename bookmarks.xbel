@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :236: for Floccus bookmark sync browser extension -->
+<!--- highestId :237: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -627,6 +627,9 @@
     </bookmark>
     <bookmark href="https://baipiao.org/" id="205">
       <title>白嫖 BaiPiao · AI 白嫖与免费资源聚合站</title>
+    </bookmark>
+    <bookmark href="https://github.com/guoyue2010/lxmusic-/releases/tag/V260917" id="237">
+      <title>Release V260917 · guoyue2010/lxmusic-</title>
     </bookmark>
   </folder>
   <folder id="10">
