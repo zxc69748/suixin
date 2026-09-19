@@ -43,6 +43,12 @@
         <title>乐青映射 - LoCyanFrp | 仪表盘</title>
       </bookmark>
     </folder>
+    <folder id="235">
+      <title>高质量API</title>
+      <bookmark href="https://new.xinjianya.top/console/personal" id="231">
+        <title>星见雅 API</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://38.207.176.131:15246/admin802300" id="13">
       <title>1Panel-38.207.176.131</title>
     </bookmark>
@@ -160,12 +166,6 @@
     <bookmark href="https://tokenforge.ai.studio/dashboard/profile" id="229">
       <title>TokenForge——具有更强功能的 API 基础设施 --- TokenForge — API infrastructure with more signal</title>
     </bookmark>
-    <folder id="235">
-      <title>高质量API</title>
-      <bookmark href="https://new.xinjianya.top/console/personal" id="231">
-        <title>星见雅 API</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://ai.wxctf.com/profile" id="232">
       <title>Wxctf Ai</title>
     </bookmark>
