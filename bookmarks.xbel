@@ -45,6 +45,21 @@
     </folder>
     <folder id="235">
       <title>高质量API</title>
+      <bookmark href="https://api456.me/console/personal" id="210">
+        <title>New API-可萌</title>
+      </bookmark>
+      <bookmark href="https://helpcoder.cc/console/personal" id="217">
+        <title>帮帮程序员-API中转</title>
+      </bookmark>
+      <bookmark href="https://chatanywhere.tech/" id="180">
+        <title>ChatAnywhere</title>
+      </bookmark>
+      <bookmark href="https://api.ytea.top/usage-logs/common" id="21">
+        <title>Tea Top</title>
+      </bookmark>
+      <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
+        <title>新疆幻城网安科技公益大模型安全网关</title>
+      </bookmark>
       <bookmark href="https://new.xinjianya.top/console/personal" id="231">
         <title>星见雅 API</title>
       </bookmark>
@@ -76,26 +91,11 @@
     <bookmark href="https://baipiao.org/bbs" id="208">
       <title>全部主题 - 白嫖社区</title>
     </bookmark>
-    <bookmark href="https://api.ytea.top/usage-logs/common" id="21">
-      <title>Tea Top</title>
-    </bookmark>
-    <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
-      <title>新疆幻城网安科技公益大模型安全网关</title>
-    </bookmark>
     <bookmark href="https://bbs.kscsnkli.site/" id="207">
       <title>异常芙芙</title>
     </bookmark>
     <bookmark href="https://ai.kscsnkli.site/dashboard/overview" id="203">
       <title>Z E-API</title>
-    </bookmark>
-    <bookmark href="https://chatanywhere.tech/" id="180">
-      <title>ChatAnywhere</title>
-    </bookmark>
-    <bookmark href="https://api456.me/console/personal" id="210">
-      <title>New API-可萌</title>
-    </bookmark>
-    <bookmark href="https://helpcoder.cc/console/personal" id="217">
-      <title>帮帮程序员-API中转</title>
     </bookmark>
     <bookmark href="https://beizhi.sylu.cc/dashboard/overview" id="183">
       <title>Liminality-橘子api</title>
