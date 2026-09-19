@@ -45,6 +45,12 @@
     </folder>
     <folder id="235">
       <title>高质量API</title>
+      <bookmark href="https://gemai.huchan.cn/profile" id="206">
+        <title>哈基米API站</title>
+      </bookmark>
+      <bookmark href="https://api.wapq.cn/console/personal" id="211">
+        <title>LivenHub-API</title>
+      </bookmark>
       <bookmark href="https://aihub.071129.xyz/profile" id="216">
         <title>MapleLeaf API</title>
       </bookmark>
@@ -108,12 +114,6 @@
     </bookmark>
     <bookmark href="https://beizhi.sylu.cc/dashboard/overview" id="183">
       <title>Liminality-橘子api</title>
-    </bookmark>
-    <bookmark href="https://api.wapq.cn/console/personal" id="211">
-      <title>LivenHub-API</title>
-    </bookmark>
-    <bookmark href="https://gemai.huchan.cn/profile" id="206">
-      <title>哈基米API站</title>
     </bookmark>
     <bookmark href="https://free.supxh.xin/dashboard" id="198">
       <title>肖恩AI - 免费大模型API</title>
