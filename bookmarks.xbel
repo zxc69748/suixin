@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :238: for Floccus bookmark sync browser extension -->
+<!--- highestId :239: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -95,6 +95,9 @@
       </bookmark>
       <bookmark href="https://new.xinjianya.top/console/personal" id="231">
         <title>星见雅 API</title>
+      </bookmark>
+      <bookmark href="https://www.univibe.cc/console/" id="239">
+        <title>控制台 - UniVibe</title>
       </bookmark>
     </folder>
     <bookmark href="https://38.207.176.131:15246/admin802300" id="13">
