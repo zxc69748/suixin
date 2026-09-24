@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :244: for Floccus bookmark sync browser extension -->
+<!--- highestId :245: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -107,6 +107,9 @@
       </bookmark>
       <bookmark href="https://api.justwoker.icu/dashboard/overview" id="243">
         <title>JustDoWork</title>
+      </bookmark>
+      <bookmark href="https://xiaoenai.pages.dev/" id="245">
+        <title>地址导航</title>
       </bookmark>
     </folder>
     <bookmark href="https://38.207.176.131:15246/admin802300" id="13">
