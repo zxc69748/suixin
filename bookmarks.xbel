@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :245: for Floccus bookmark sync browser extension -->
+<!--- highestId :246: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -648,6 +648,9 @@
     </bookmark>
     <bookmark href="https://chat.xiaoxun.xyz/" id="240">
       <title>Palworld 聊天分析面板</title>
+    </bookmark>
+    <bookmark href="https://plus.xg.frp.one:62646/#v1:0:=node%2FHappyHuBei:4:5::::7::" id="246">
+      <title>HappyHuBei - Proxmox Virtual Environment</title>
     </bookmark>
   </folder>
   <folder id="10">
