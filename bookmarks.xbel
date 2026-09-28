@@ -7,9 +7,6 @@
   <title>Bookmarks Bar</title>
   <folder id="3">
     <title>服务器</title>
-    <bookmark href="https://plus.xg.frp.one:62646/#v1:0:=node%2FHappyHuBei:4:5::::7::" id="246">
-      <title>HappyHuBei - Proxmox Virtual Environment</title>
-    </bookmark>
     <folder id="12">
       <title>面板</title>
       <bookmark href="https://www.vpsor.cn/center/" id="70">
@@ -54,6 +51,9 @@
     </bookmark>
     <bookmark href="https://freessl.cn/?%C2%A0" id="18">
       <title>1新的消息</title>
+    </bookmark>
+    <bookmark href="https://plus.xg.frp.one:62646/#v1:0:=node%2FHappyHuBei:4:5::::7::" id="246">
+      <title>HappyHuBei - Proxmox Virtual Environment</title>
     </bookmark>
     <bookmark href="https://rivers.chaitin.cn/console/app/ip-17788/" id="19">
       <title>IP 威胁情报-计划升级-长亭百川云平台</title>
