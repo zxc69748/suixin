@@ -5,6 +5,120 @@
 
 <folder id="2">
   <title>Bookmarks Bar</title>
+  <folder id="249">
+    <title>AI</title>
+    <folder id="235">
+      <title>高质量API</title>
+      <bookmark href="https://ai.ryoshi.click/console/personal" id="220">
+        <title>ryoshi- API</title>
+      </bookmark>
+      <bookmark href="https://api.chengmo.cc.cd/profile" id="223">
+        <title>CM-API-公益站</title>
+      </bookmark>
+      <bookmark href="https://api.kr777.top/console/personal" id="225">
+        <title>CaMeL AI</title>
+      </bookmark>
+      <bookmark href="https://tokenforge.ai.studio/dashboard/profile" id="229">
+        <title>TokenForge——具有更强功能的 API 基础设施 --- TokenForge — API infrastructure with more signal</title>
+      </bookmark>
+      <bookmark href="https://lzhiyu.ccwu.cc/dashboard" id="199">
+        <title>用户控制台 · 辉哥中转公益站</title>
+      </bookmark>
+      <bookmark href="https://go.toter.me/dashboard" id="244">
+        <title>肖恩AI - 免费大模型API</title>
+      </bookmark>
+      <bookmark href="https://gemai.huchan.cn/profile" id="206">
+        <title>哈基米API站</title>
+      </bookmark>
+      <bookmark href="https://api.wapq.cn/console/personal" id="211">
+        <title>LivenHub-API</title>
+      </bookmark>
+      <bookmark href="https://aihub.071129.xyz/profile" id="216">
+        <title>MapleLeaf API</title>
+      </bookmark>
+      <bookmark href="https://api.rua.chat/dashboard/overview" id="184">
+        <title>rua.chat-API</title>
+      </bookmark>
+      <bookmark href="https://ai.baipiao.co/portal#/dashboard" id="215">
+        <title>bit-api · 控制台</title>
+      </bookmark>
+      <bookmark href="https://api456.me/console/personal" id="210">
+        <title>New API-可萌</title>
+      </bookmark>
+      <bookmark href="https://helpcoder.cc/console/personal" id="217">
+        <title>帮帮程序员-API中转</title>
+      </bookmark>
+      <bookmark href="https://chatanywhere.tech/" id="180">
+        <title>ChatAnywhere</title>
+      </bookmark>
+      <bookmark href="https://api.ytea.top/usage-logs/common" id="21">
+        <title>Tea Top</title>
+      </bookmark>
+      <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
+        <title>新疆幻城网安科技公益大模型安全网关</title>
+      </bookmark>
+      <bookmark href="https://new.xinjianya.top/console/personal" id="231">
+        <title>星见雅 API</title>
+      </bookmark>
+      <bookmark href="https://www.univibe.cc/console/" id="239">
+        <title>控制台 - UniVibe</title>
+      </bookmark>
+      <bookmark href="https://api2.kscsnkli.site/profile" id="241">
+        <title>异常芙芙公益站</title>
+      </bookmark>
+      <bookmark href="https://new.ai.hinswu.top/profile" id="242">
+        <title>墨白 API</title>
+      </bookmark>
+      <bookmark href="https://api.justwoker.icu/dashboard/overview" id="243">
+        <title>JustDoWork</title>
+      </bookmark>
+      <bookmark href="https://xiaoenai.pages.dev/" id="245">
+        <title>地址导航</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://baipiao.org/bbs" id="208">
+      <title>全部主题 - 白嫖社区</title>
+    </bookmark>
+    <bookmark href="https://bbs.kscsnkli.site/" id="207">
+      <title>异常芙芙</title>
+    </bookmark>
+    <bookmark href="https://beizhi.sylu.cc/dashboard/overview" id="183">
+      <title>Liminality-橘子api</title>
+    </bookmark>
+    <bookmark href="https://kapibala.asia/profile" id="212">
+      <title>卡皮巴拉API</title>
+    </bookmark>
+    <bookmark href="https://xingya.site/checkin" id="213">
+      <title>星芽-API</title>
+    </bookmark>
+    <bookmark href="https://ai.xmiaom.com/profile" id="214">
+      <title>咕嘎咕嘎-API</title>
+    </bookmark>
+    <bookmark href="https://api.aiaiai001.com/profile" id="219">
+      <title>AIAIAI 工具箱</title>
+    </bookmark>
+    <bookmark href="https://modelgate.app/console/lottery" id="221">
+      <title>Model Gate-API</title>
+    </bookmark>
+    <bookmark href="https://gwlink.cc/profile" id="222">
+      <title>GreatWall Link-API</title>
+    </bookmark>
+    <bookmark href="https://kuaipao.ai/console/personal" id="224">
+      <title>快跑API</title>
+    </bookmark>
+    <bookmark href="https://code28.ccwu.cc/profile" id="227">
+      <title>可乐AI</title>
+    </bookmark>
+    <bookmark href="https://xy.dzzi.ai/sign-in" id="228">
+      <title>大肘子API</title>
+    </bookmark>
+    <bookmark href="https://ai.wxctf.com/profile" id="232">
+      <title>Wxctf Ai</title>
+    </bookmark>
+    <bookmark href="https://chuan.sylu.cc/profile" id="248">
+      <title>Chuan🍥公益Api</title>
+    </bookmark>
+  </folder>
   <folder id="3">
     <title>服务器</title>
     <folder id="12">
@@ -555,120 +669,6 @@
     <title>软件</title>
     <bookmark href="https://www.ghxi.com/category/all" id="69">
       <title>最新文章 - 果核剥壳</title>
-    </bookmark>
-  </folder>
-  <folder id="249">
-    <title>AI</title>
-    <folder id="235">
-      <title>高质量API</title>
-      <bookmark href="https://ai.ryoshi.click/console/personal" id="220">
-        <title>ryoshi- API</title>
-      </bookmark>
-      <bookmark href="https://api.chengmo.cc.cd/profile" id="223">
-        <title>CM-API-公益站</title>
-      </bookmark>
-      <bookmark href="https://api.kr777.top/console/personal" id="225">
-        <title>CaMeL AI</title>
-      </bookmark>
-      <bookmark href="https://tokenforge.ai.studio/dashboard/profile" id="229">
-        <title>TokenForge——具有更强功能的 API 基础设施 --- TokenForge — API infrastructure with more signal</title>
-      </bookmark>
-      <bookmark href="https://lzhiyu.ccwu.cc/dashboard" id="199">
-        <title>用户控制台 · 辉哥中转公益站</title>
-      </bookmark>
-      <bookmark href="https://go.toter.me/dashboard" id="244">
-        <title>肖恩AI - 免费大模型API</title>
-      </bookmark>
-      <bookmark href="https://gemai.huchan.cn/profile" id="206">
-        <title>哈基米API站</title>
-      </bookmark>
-      <bookmark href="https://api.wapq.cn/console/personal" id="211">
-        <title>LivenHub-API</title>
-      </bookmark>
-      <bookmark href="https://aihub.071129.xyz/profile" id="216">
-        <title>MapleLeaf API</title>
-      </bookmark>
-      <bookmark href="https://api.rua.chat/dashboard/overview" id="184">
-        <title>rua.chat-API</title>
-      </bookmark>
-      <bookmark href="https://ai.baipiao.co/portal#/dashboard" id="215">
-        <title>bit-api · 控制台</title>
-      </bookmark>
-      <bookmark href="https://api456.me/console/personal" id="210">
-        <title>New API-可萌</title>
-      </bookmark>
-      <bookmark href="https://helpcoder.cc/console/personal" id="217">
-        <title>帮帮程序员-API中转</title>
-      </bookmark>
-      <bookmark href="https://chatanywhere.tech/" id="180">
-        <title>ChatAnywhere</title>
-      </bookmark>
-      <bookmark href="https://api.ytea.top/usage-logs/common" id="21">
-        <title>Tea Top</title>
-      </bookmark>
-      <bookmark href="https://api.hcnsec.cn/usage-logs/common" id="130">
-        <title>新疆幻城网安科技公益大模型安全网关</title>
-      </bookmark>
-      <bookmark href="https://new.xinjianya.top/console/personal" id="231">
-        <title>星见雅 API</title>
-      </bookmark>
-      <bookmark href="https://www.univibe.cc/console/" id="239">
-        <title>控制台 - UniVibe</title>
-      </bookmark>
-      <bookmark href="https://api2.kscsnkli.site/profile" id="241">
-        <title>异常芙芙公益站</title>
-      </bookmark>
-      <bookmark href="https://new.ai.hinswu.top/profile" id="242">
-        <title>墨白 API</title>
-      </bookmark>
-      <bookmark href="https://api.justwoker.icu/dashboard/overview" id="243">
-        <title>JustDoWork</title>
-      </bookmark>
-      <bookmark href="https://xiaoenai.pages.dev/" id="245">
-        <title>地址导航</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://baipiao.org/bbs" id="208">
-      <title>全部主题 - 白嫖社区</title>
-    </bookmark>
-    <bookmark href="https://bbs.kscsnkli.site/" id="207">
-      <title>异常芙芙</title>
-    </bookmark>
-    <bookmark href="https://beizhi.sylu.cc/dashboard/overview" id="183">
-      <title>Liminality-橘子api</title>
-    </bookmark>
-    <bookmark href="https://kapibala.asia/profile" id="212">
-      <title>卡皮巴拉API</title>
-    </bookmark>
-    <bookmark href="https://xingya.site/checkin" id="213">
-      <title>星芽-API</title>
-    </bookmark>
-    <bookmark href="https://ai.xmiaom.com/profile" id="214">
-      <title>咕嘎咕嘎-API</title>
-    </bookmark>
-    <bookmark href="https://api.aiaiai001.com/profile" id="219">
-      <title>AIAIAI 工具箱</title>
-    </bookmark>
-    <bookmark href="https://modelgate.app/console/lottery" id="221">
-      <title>Model Gate-API</title>
-    </bookmark>
-    <bookmark href="https://gwlink.cc/profile" id="222">
-      <title>GreatWall Link-API</title>
-    </bookmark>
-    <bookmark href="https://kuaipao.ai/console/personal" id="224">
-      <title>快跑API</title>
-    </bookmark>
-    <bookmark href="https://code28.ccwu.cc/profile" id="227">
-      <title>可乐AI</title>
-    </bookmark>
-    <bookmark href="https://xy.dzzi.ai/sign-in" id="228">
-      <title>大肘子API</title>
-    </bookmark>
-    <bookmark href="https://ai.wxctf.com/profile" id="232">
-      <title>Wxctf Ai</title>
-    </bookmark>
-    <bookmark href="https://chuan.sylu.cc/profile" id="248">
-      <title>Chuan🍥公益Api</title>
     </bookmark>
   </folder>
 </folder>
