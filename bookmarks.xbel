@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :249: for Floccus bookmark sync browser extension -->
+<!--- highestId :250: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Bookmarks Bar</title>
@@ -576,6 +576,9 @@
     </bookmark>
     <bookmark href="https://chuan.sylu.cc/profile" id="248">
       <title>Chuan🍥公益Api</title>
+    </bookmark>
+    <bookmark href="https://api3.kscsnkli.site/profile" id="250">
+      <title>异常芙芙低价站</title>
     </bookmark>
   </folder>
   <folder id="8">
