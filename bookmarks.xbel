@@ -468,6 +468,12 @@
     <title>AI</title>
     <folder id="235">
       <title>高质量API</title>
+      <bookmark href="https://api.artbloom.tech/dashboard" id="252">
+        <title>Dashboard — Artbloom</title>
+      </bookmark>
+      <bookmark href="https://chuan.sylu.cc/profile" id="248">
+        <title>Chuan🍥公益Api</title>
+      </bookmark>
       <bookmark href="https://ai.ryoshi.click/console/personal" id="220">
         <title>ryoshi- API</title>
       </bookmark>
@@ -574,17 +580,11 @@
     <bookmark href="https://ai.wxctf.com/profile" id="232">
       <title>Wxctf Ai</title>
     </bookmark>
-    <bookmark href="https://chuan.sylu.cc/profile" id="248">
-      <title>Chuan🍥公益Api</title>
-    </bookmark>
     <bookmark href="https://api3.kscsnkli.site/profile" id="250">
       <title>异常芙芙低价站</title>
     </bookmark>
     <bookmark href="https://juziqishui.net/console/personal" id="251">
       <title>橘子汽水 API</title>
-    </bookmark>
-    <bookmark href="https://api.artbloom.tech/dashboard" id="252">
-      <title>Dashboard — Artbloom</title>
     </bookmark>
   </folder>
   <folder id="8">
